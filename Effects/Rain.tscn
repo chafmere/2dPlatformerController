@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Effects/Rain.gd" type="Script" id=1]
+
+[sub_resource type="ParticlesMaterial" id=1]
+emission_shape = 2
+emission_box_extents = Vector3( 640, 1, 1 )
+flag_disable_z = true
+spread = 0.0
+gravity = Vector3( -10, 97.977, 0 )
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+scale_random = 0.14
+color = Color( 0.47451, 0.466667, 0.596078, 1 )
+
+[node name="CPUParticles2D" type="Particles2D"]
+amount = 1000
+lifetime = 5.0
+speed_scale = 2.0
+process_material = SubResource( 1 )
+script = ExtResource( 1 )
