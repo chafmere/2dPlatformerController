@@ -11,7 +11,7 @@ Some thing I know i will polish at some point are:
 > Dash/Dodge variable naming is interchangable for different sections of the code. I will update to have one main name reference.
 > Wallhold/WallGrab sound too similar when they do different things.
 
-when you clode this an open up in Godot there is an example scene called 'SandBox'
+when you clone this and open up in Godot, there is an example scene called 'SandBox'
 
 There is a 3d model in this repository?
 
