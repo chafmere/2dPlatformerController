@@ -1,3 +1,5 @@
+NEED A PLAYER CONTROLLER FOR GODOT 4?? DOWNLOAD [HERE](https://chaffgames.com/godot-player-controller-template-for-2d-platformers/)
+
 2d Platformer Controller for the Godot Game Engine
 
 This is a player controller than can be used to make games like 'Celeste' in the Godot Game Engine.
